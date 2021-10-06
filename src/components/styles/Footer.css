@@ -1,5 +1,12 @@
-
-.PieDePagina {
+#ParrafoDelFooter {
+    color: white;
+}
+.EnlacesDePieDePagina {
     display: flex;
-    justify-content: space-around;
+
+}
+#PieDePagina {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
